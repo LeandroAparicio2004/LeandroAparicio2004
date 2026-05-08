@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Leandro Aparicio 👋
 
-<!--
-**LeandroAparicio2004/LeandroAparicio2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Actualmente cursando la carrera "Desarrollo de Software"
+📍 Instituto Superior General San Martín
 
-Here are some ideas to get you started:
+Soy un apasionado por la programación y la optimización de sistemas. Actualmente enfocado en el desarrollo de soluciones tecnológicas eficientes y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mis Proyectos Principales
+* **AccesoTotal:** Proyecto web enfocado en la accesibilidad universal.
+* **Downloader:** App para descargar música de forma masiva.
+* **Extractor:** Proyecto web que permite recuperar archivos de WhatsApp.
+* **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Python, JavaScript, Java, PHP.
+* **Bases de Datos:** SQL (Gestión y Arquitectura de Información).
+* **Entorno:** VS Code, Apache NetBeans, MySQL Workbench, pgAdmin4, Git & GitHub.
+* **Hardware:** Optimización y monitoreo de rendimiento de PC.
+
+---
+
+### 📈 Mis Metas
+- [ ] Seguir aprendiendo sobre nuevas arquitecturas y optimización de código.
+- [ ] Realizar trabajos novedosos o mejorar algunos ya existentes.
