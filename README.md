@@ -37,7 +37,7 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 
 ---
 ### 📊 Mis Estadísticas
-![Estadísticas de Leandro](https://github-readme-stats.vercel.app/api?username=LeandroAparicio2004&show_icons=true&theme=tokyonight)
+![Mis Estadisticas](https://github-readme-stats.vercel.app/api?username=LeandroAparicio2004&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAparicio2004&layout=compact&theme=tokyonight)
 
 ---
