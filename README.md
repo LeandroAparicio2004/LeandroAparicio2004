@@ -36,13 +36,6 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 * 🖥️ **Hardware:** Optimización y monitoreo de rendimiento de PC.
 
 ---
-### 📊 Mis Estadísticas
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LeandroAparicio2004&show_icons=true&theme=tokyonight" alt="Estadísticas de Leandro" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAparicio2004&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 📈 Mis Metas
 - [ ] Seguir aprendiendo sobre nuevas arquitecturas y optimización de código.
