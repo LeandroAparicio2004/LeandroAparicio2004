@@ -8,9 +8,9 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 ---
 
 ### 🚀 Mis Proyectos Principales
-* **AccesoTotal:** Proyecto web enfocado en la accesibilidad universal.
-* **Downloader:** App para descargar música de forma masiva.
-* **Extractor:** Proyecto web que permite recuperar archivos de WhatsApp.
+* **[🎵 Downloader](https://github.com/LeandroAparicio2004/Downloader):** App de escritorio para descarga masiva de música con Python.
+* **♿ AccesoTotal:** Proyecto enfocado en accesibilidad universal.
+* **📂 Extractor:** Herramienta web para recuperación de archivos de WhatsApp.
 * **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
 
 ---
