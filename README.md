@@ -40,3 +40,6 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 ### 📈 Mis Metas
 - [ ] Seguir aprendiendo sobre nuevas arquitecturas y optimización de código.
 - [ ] Realizar trabajos novedosos o mejorar algunos ya existentes.
+
+---
+Mi pagina web: https://leandroaparicioportafolio.vercel.app
