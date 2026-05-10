@@ -12,8 +12,7 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 * **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
 * **[🎵 Downloader](https://github.com/LeandroAparicio2004/Downloader):** App de escritorio para descarga masiva de música con Python.
 * **♿ AccesoTotal:** Proyecto enfocado en accesibilidad universal.
-* **📂 Extractor:** Herramienta web para recuperación de archivos de WhatsApp.
-
+* **[📂 Extractor](https://github.com/LeandroAparicio2004/whatsapp_extractor):** Herramienta desarrollada en Python para la recuperación y organización de archivos multimedia de WhatsApp.
 ---
 
 ### 🛠️ Tecnologías y Herramientas
