@@ -5,13 +5,14 @@
 
 Soy un apasionado por la programación y la optimización de sistemas. Actualmente enfocado en el desarrollo de soluciones tecnológicas eficientes y escalables.
 
+🌐 **[leandroaparicioportafolio.vercel.app](https://leandroaparicioportafolio.vercel.app)**
 ---
 
 ### 🚀 Mis Proyectos Principales
+* **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
 * **[🎵 Downloader](https://github.com/LeandroAparicio2004/Downloader):** App de escritorio para descarga masiva de música con Python.
 * **♿ AccesoTotal:** Proyecto enfocado en accesibilidad universal.
 * **📂 Extractor:** Herramienta web para recuperación de archivos de WhatsApp.
-* **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
 
 ---
 
@@ -26,6 +27,7 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 **Bases de Datos:**
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Entorno y Herramientas:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,12 +36,3 @@ Soy un apasionado por la programación y la optimización de sistemas. Actualmen
 
 **Especialización:**
 * 🖥️ **Hardware:** Optimización y monitoreo de rendimiento de PC.
-
----
-
-### 📈 Mis Metas
-- [ ] Seguir aprendiendo sobre nuevas arquitecturas y optimización de código.
-- [ ] Realizar trabajos novedosos o mejorar algunos ya existentes.
-
----
-Mi pagina web: https://leandroaparicioportafolio.vercel.app
