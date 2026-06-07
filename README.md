@@ -5,7 +5,6 @@
 
 Soy un apasionado por la programación y la optimización de sistemas. Actualmente enfocado en el desarrollo de soluciones tecnológicas eficientes y escalables.
 
-🌐 **[leandroaparicioportafolio.vercel.app](https://leandroaparicioportafolio.vercel.app)**
 ---
 
 ### 🚀 Mis Proyectos Principales
