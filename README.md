@@ -3,8 +3,6 @@
 ### Actualmente cursando la carrera "Desarrollo de Software"
 📍 Instituto Superior General San Martín
 
-Soy un apasionado por la programación y la optimización de sistemas. Actualmente enfocado en el desarrollo de soluciones tecnológicas eficientes y escalables.
-
 ---
 
 ### 🚀 Mis Proyectos Principales
