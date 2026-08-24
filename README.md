@@ -7,9 +7,10 @@
 
 ### 🚀 Mis Proyectos Principales
 * **E-commerce:** Desarrollo de páginas web para diversos comercios locales.
-* **[🎵 Downloader](https://github.com/LeandroAparicio2004/Downloader):** App de escritorio para descarga masiva de música con Python.
-* **[📂 Extractor](https://github.com/LeandroAparicio2004/whatsapp_extractor):** Herramienta desarrollada en Python para la recuperación y organización de archivos multimedia de WhatsApp.
+* **[🎵 Downloader](https://github.com/LeandroAparicio2004/Downloader):** App de escritorio para descarga masiva de música
+* **[📂 Extractor](https://github.com/LeandroAparicio2004/whatsapp_extractor):** Herramienta para la recuperación y organización de archivos multimedia de WhatsApp.
 * **[💼 E-Commerce API & Notification Microservice](https://github.com/LeandroAparicio2004/ecommerce-microservice-api):** Backend de una tienda online. El sistema gestiona productos, órdenes de compra y notificaciones automáticas en tiempo real. No contiene Vista.
+  
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -30,6 +31,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230077B5.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**Especialización:**
 * 🖥️ **Hardware:** Optimización y monitoreo de rendimiento de PC.
